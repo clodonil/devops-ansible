@@ -1,0 +1,7 @@
+[servers]
+server1
+server2
+
+
+[localhost]
+ansible
